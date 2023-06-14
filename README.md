@@ -1,19 +1,4 @@
-# newkurs
+# VUE-app-tasks
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Vue 3, Composition API, Vue Router, Vuex, Local Storage
+## project uploaded to firebase. Link https://vue-tasks-f142c.web.app/ 
